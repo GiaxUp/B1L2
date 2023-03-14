@@ -1,4 +1,4 @@
-package Day2;
+package Esercizio1;
 
 public class Main {
     public static void stampaRettangolo(Rettangolo r) {
